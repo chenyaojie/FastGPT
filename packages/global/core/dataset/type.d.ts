@@ -72,8 +72,6 @@ export type DatasetDataSchemaType = {
   tmbId: string;
   datasetId: string;
   collectionId: string;
-  datasetId: string;
-  collectionId: string;
   chunkIndex: number;
   updateTime: Date;
   q: string; // large chunks or question
